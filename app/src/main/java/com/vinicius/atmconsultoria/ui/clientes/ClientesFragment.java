@@ -1,4 +1,4 @@
-package com.vinicius.atmconsultoria.ui.home;
+package com.vinicius.atmconsultoria.ui.clientes;
 
 import android.os.Bundle;
 
@@ -13,9 +13,9 @@ import com.vinicius.atmconsultoria.R;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class HomeFragment extends Fragment {
+public class ClientesFragment extends Fragment {
 
-    public HomeFragment() {
+    public ClientesFragment() {
         // Required empty public constructor
     }
 
@@ -23,6 +23,7 @@ public class HomeFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_home, container, false);
+        return inflater.inflate(R.layout.fragment_clientes, container, false);
     }
+
 }
