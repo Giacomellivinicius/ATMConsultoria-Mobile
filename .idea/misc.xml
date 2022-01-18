@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/drawable/side_nav_bar.xml" value="0.25" />
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/layout/activity_main.xml" value="0.271875" />
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/layout/app_bar_main.xml" value="0.271875" />
         <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/layout/content_main.xml" value="0.2676923076923077" />
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/layout/nav_header_main.xml" value="0.271875" />
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/menu/activity_main_drawer.xml" value="0.271875" />
+        <entry key="..\:/Users/Vini/Documents/Ws-Mobile/AtmConsultoria/app/src/main/res/menu/main.xml" value="0.271875" />
       </map>
     </option>
   </component>
